@@ -3,15 +3,24 @@
 https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/
 
 ### 1 - Static IP address
+
+Static IP
 ![Static IP](/screenshots/staticip.png)
 
 ---
 ### 2 - Hostname and domain name
 
+Hostname
+![Hostname](/screenshots/hostname.png)
 
 ---
 ### 3 - DHCP protocol
 
+DHCP Configuration
+![Static IP](/screenshots/dhcp1.png)
+
+DHCP Status
+![Static IP](/screenshots/dhcp2.png)
 
 ---
 ### 4 - DNS server
