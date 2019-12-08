@@ -25,8 +25,8 @@
 ---
 ### 7 - SSH protocol
 
-sudo nano /etc/ssh/ssh_config
-sudo service ssh status
+* sudo nano /etc/ssh/ssh_config
+* sudo service ssh status
 
 https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/
 
