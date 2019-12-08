@@ -30,6 +30,8 @@
 
 https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/
 
+> virkar ekki á client - og þarf að setja group permissions fyrir IT og Management.
+
 ---
 ### 8 - apache2 web server
 
