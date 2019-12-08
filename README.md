@@ -1,7 +1,9 @@
 # KEST2LG05DU-Lokaverkefni-2019
 
-### 1 - Static IP address
+https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/
 
+### 1 - Static IP address
+![Static IP](/screenshots/staticip.png)
 
 ---
 ### 2 - Hostname and domain name
@@ -44,18 +46,26 @@ https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/
 ---
 ### 9 - MYSQL server and phpmyadmin web interface
 
+> Búinn að installa, get ekki komist inn á phpmyadmin á netinu, þarf að gera accounts fyrir IT og Management.
 
 ---
 ### 10 - Postfix mail server
 
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-18-04
+
+> Bara búið að installa.
 
 ---
 ### 11 - PurFTPd and Quota
 
+https://www.digitalocean.com/community/tutorials/how-to-set-filesystem-quotas-on-ubuntu-18-04
+
+> Bara búið að installa bæði Pure-FTPd og Quota, þarf að enable-a Quota.
 
 ---
 ### 12 - SquirreMail
 
+> Þarf að laga postfix til að gera þetta.
 
 ---
 ### 13 - ISPConfig-3
