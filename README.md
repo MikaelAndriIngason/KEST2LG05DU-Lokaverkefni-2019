@@ -2,21 +2,25 @@
 
 https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/
 
+---
 ## 1 - Static IP address
 
 Static IP
+
 ![Static IP](/screenshots/staticip.png)
 
 ---
 ## 2 - Hostname and domain name
 
 Hostname
+
 ![Hostname](/screenshots/hostname.png)
 
 ---
 ## 3 - DHCP protocol
 
 DHCP Configuration
+
 ![DHCP conf](/screenshots/dhcp1.png)
 
 DHCP Status
@@ -26,15 +30,18 @@ DHCP Status
 ## 4 - DNS server
 
 DNS Configuration
+
 ![DNS conf](/screenshots/dns.png)
 
 ---
 ## 5 - Groups and users
 
 Users
+
 ![Users](/screenshots/users.png)
 
 Groups
+
 ![Groups](/screenshots/groups.png)
 
 ---
@@ -55,9 +62,11 @@ https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/
 ## 8 - apache2 web server
 
 Apache2 web server og demo síða
+
 ![apache2 demo](/screenshots/apache2.png)
 
 SSL
+
 ![apache2 ssl](/screenshots/apache2_ssl.png)
 
 - [x] Installation: https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04-quickstart
@@ -82,6 +91,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-po
 ## 11 - PurFTPd and Quota
 
 Pure-FTPd
+
 ![Pure-ftpd](/screenshots/pure-ftpd.png)
 
 https://www.digitalocean.com/community/tutorials/how-to-set-filesystem-quotas-on-ubuntu-18-04
