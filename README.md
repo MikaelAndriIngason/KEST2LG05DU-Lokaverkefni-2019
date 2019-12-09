@@ -80,6 +80,7 @@
 ---
 ## 6 - Samba share folder
 
+**Samba Status**
 ---
 ![samba status](/screenshots/samba1.png)
 
@@ -94,6 +95,7 @@ New samba user:
 ---
 ## 7 - SSH protocol
 
+**SSH Status**
 ---
 ![ssh status](/screenshots/ssh1.png)
 
@@ -128,11 +130,12 @@ To change index file of the website:
 ---
 ## 10 - Postfix mail server
 
+**Postfix Status**
 ---
 ![postfix status](/screenshots/postfix.png)
 
 Assign emails:
-> sudo nano /etc/postfix/virtual
+> $ sudo nano /etc/postfix/virtual
 ---
 ![postfix emails](/screenshots/postfixemails.png)
 
