@@ -63,10 +63,10 @@ DNS Configuration
 ## 5 - Groups and users
 
 > $ sudo adduser <name>
-  $ sudo addgroup <name>
+> $ sudo addgroup <name>
 
 Users
-> $ ls /home
+> $ ls /home/
 
 ![Users](/screenshots/users.png)
 
