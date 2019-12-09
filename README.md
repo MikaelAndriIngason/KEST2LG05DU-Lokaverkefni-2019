@@ -12,7 +12,7 @@
 9. [MYSQL and phpmyadmin](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#9---mysql-server-and-phpmyadmin-web-interface) 
 10. [Postfix mail server](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#10---postfix-mail-server) 
 11. [Pure-FTPd and Quota](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#11---purftpd-and-quota) 
-12. [SquirrelMail](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#12---squirremail) 
+12. [SquirrelMail](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#12---squirrelmail) 
 13. [ISPConfig-3](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#13---ispconfig-3) 
 
 > https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/ bara að geyma.
@@ -166,6 +166,9 @@ To change group quota:
 
 ---
 ## 12 - SquirrelMail
+
+**SquirrelMail configuration**
+> $ sudo nano /var/www/html/mail/config/config.php
 
 > Þarf að laga postfix til að gera þetta.
 
