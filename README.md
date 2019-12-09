@@ -94,6 +94,9 @@ https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/
 ---
 ## 8 - apache2 web server
 
+To change index file of the website:
+> $ sudo nano /var/www/html/index.html
+
 **Apache2 web server og demo síða**
 ---
 ![apache2 demo](/screenshots/apache2.png)
@@ -101,12 +104,6 @@ https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/
 **SSL**
 ---
 ![apache2 ssl](/screenshots/apache2_ssl.png)
-
-- [x] Installation: https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04-quickstart
-- [x] Demo site: sudo nano /var/www/html/index.html
-- [x] SSL: https://linuxpropaganda.wordpress.com/2018/07/06/enable-ssl-for-apache2-in-ubuntu-server-18-04/2/
-
-> Síðan kemur upp, demo-site og SSL er komið!
 
 ---
 ## 9 - MYSQL server and phpmyadmin web interface
