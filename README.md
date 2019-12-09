@@ -118,6 +118,8 @@ To change index file of the website:
 > $ sudo nano /var/www/html/index.html
 ---
 ![apache2 demo](/screenshots/apache2.png)
+---
+![apache2 index file](/screenshots/apacheindex.png)
 
 **SSL**
 > https://linuxpropaganda.wordpress.com/2018/07/06/enable-ssl-for-apache2-in-ubuntu-server-18-04/2/
@@ -164,6 +166,17 @@ To change user quota:
 To change group quota:
 > $ sudo edquota -g [name]
 
+Changing alerog's quota:
+> $ sudo edquota -u alerog
+---
+![quotachange](/screenshots/quota2.png)
+
+Checking the change:
+> $ sudo quota -vs alerog
+---
+![quotacheck](/screenshots/quota3.png)
+
+
 ---
 ## 12 - SquirrelMail
 
@@ -173,7 +186,11 @@ To change group quota:
 In config these values were changed:
 > $domain = 'mikael.local';  
 > $data_dir = '/var/www/html/mail/data/';  
-> $attachment_dir = '/var/www/html/mail/attach/';  
+> $attachment_dir = '/var/www/html/mail/attach/';
+
+Checking the webpage
+---
+![squirrelmail](/screenshots/squirrelmail.png)
 
 ---
 ## 13 - ISPConfig-3
