@@ -2,18 +2,18 @@
 
 **Overview**
 1. [Static IP address](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#1---static-ip-address)
-2. Hostname and domain name 
-3. DHCP protocol
-4. DNS server
-5. Groups and users
-6. Samba share folder
-7. SSH protocol
-8. apache2 web server
-9. MYSQL server and phpmyadmin web interface
-10. Postfix mail server
-11. PurFTPd and Quota
-12. SquirreMail
-13. ISPConfig-3
+2. [Hostname and domain name](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#2---hostname-and-domain-name)
+3. [DHCP protocol](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#3---dhcp-protocol) 
+4. [DNS server](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#4---dns-server) 
+5. [Groups and users](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#5---groups-and-users) 
+6. [Samba share folder](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#6---samba-share-folder) 
+7. [SSH protocol](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#7---ssh-protocol) 
+8. [apache2 web server](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#8---apache2-web-server) 
+9. [MYSQL server and phpmyadmin web interface](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#9---mysql-server-and-phpmyadmin-web-interface) 
+10. [Postfix mail server](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#10---postfix-mail-server) 
+11. [PurFTPd and Quota](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#11---purftpd-and-quota) 
+12. [SquirreMail](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#12---squirremail) 
+13. [ISPConfig-3](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#13---ispconfig-3) 
 
 > https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/ bara að geyma.
 
