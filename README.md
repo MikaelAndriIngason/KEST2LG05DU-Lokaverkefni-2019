@@ -22,7 +22,7 @@
 
 Static IP
 > $ sudo nano /etc/netplan/01-network-manager-all.yaml
---
+---
 ![Static IP](/screenshots/staticip.png)
 
 ---
