@@ -124,6 +124,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-po
 ## 11 - PurFTPd and Quota
 
 **Pure-FTPd**
+> $ sudo systemctl status pure-ftpd
 ---
 ![Pure-ftpd](/screenshots/pure-ftpd.png)
 
