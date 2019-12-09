@@ -31,7 +31,7 @@
 **Hostname**
 > $ sudo nano /etc/hosts
 ---
-![Hostname](/screenshots/hostname.png)
+![Hostname](/screenshots/hostdomainname.png)
 
 ---
 ## 3 - DHCP protocol
@@ -80,19 +80,30 @@
 ---
 ## 6 - Samba share folder
 
-> $ sudo nano /etc/samba/smb.conf
+---
+![samba status](/screenshots/samba1.png)
 
+Samba configuration
+> $ sudo nano /etc/samba/smb.conf
+---
+![samba conf](/screenshots/samba2.png)
+
+New samba user:
 > $ sudo smbpasswd -a [username] 
 
 ---
 ## 7 - SSH protocol
 
-> $ sudo nano /etc/ssh/ssh_config
+---
+![ssh status](/screenshots/ssh1.png)
 
-> $ sudo service ssh status
+SSH configuration
+> $ sudo nano /etc/ssh/ssh_config
 
 To connect to SSH from client:
 > $ ssh -l [username] 192.168.100.1
+---
+![ssh demo](/screenshots/ssh2.png)
 
 ---
 ## 8 - apache2 web server
@@ -117,15 +128,16 @@ To change index file of the website:
 ---
 ## 10 - Postfix mail server
 
+---
+![postfix status](/screenshots/postfix.png)
+
 Assign emails:
 > sudo nano /etc/postfix/virtual
-
-https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-18-04
-
-> Bara búið að installa.
+---
+![postfix emails](/screenshots/postfixemails.png)
 
 ---
-## 11 - PurFTPd and Quota
+## 11 - Pure-FTPd and Quota
 
 **Pure-FTPd**
 > $ sudo systemctl status pure-ftpd
@@ -137,7 +149,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-filesystem-quotas-on
 > Bara búið að installa bæði Pure-FTPd og Quota, þarf að enable-a Quota.
 
 ---
-## 12 - SquirreMail
+## 12 - SquirrelMail
 
 > Þarf að laga postfix til að gera þetta.
 
