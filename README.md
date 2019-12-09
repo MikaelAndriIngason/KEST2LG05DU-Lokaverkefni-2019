@@ -1,4 +1,4 @@
-# KEST2LG05DU-Lokaverkefni-2019
+# KEST2LG05DU Lokaverkefni 2019
 
 **Overview**
 1. [Static IP address](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#1---static-ip-address)
@@ -20,7 +20,7 @@
 ---
 ## 1 - Static IP address
 
-**Static IP**
+**Static IP Configuration**
 > $ sudo nano /etc/netplan/01-network-manager-all.yaml
 ---
 ![Static IP](/screenshots/staticip.png)
@@ -28,7 +28,7 @@
 ---
 ## 2 - Hostname and domain name
 
-**Hostname**
+**Host and domain name configuration**
 > $ sudo nano /etc/hosts
 ---
 ![Hostname](/screenshots/hostdomainname.png)
