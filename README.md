@@ -166,7 +166,7 @@ To change user quota:
 To change group quota:
 > $ sudo edquota -g [name]
 
-Changing alerog's quota:
+**Changing alerog's quota:**
 > $ sudo edquota -u alerog
 ---
 ![quotachange](/screenshots/quota2.png)
@@ -189,6 +189,7 @@ In config these values were changed:
 > $attachment_dir = '/var/www/html/mail/attach/';
 
 Checking the webpage
+> https://mikael.local/mail
 ---
 ![squirrelmail](/screenshots/squirrelmail.png)
 
