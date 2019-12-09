@@ -102,6 +102,7 @@ To change index file of the website:
 ![apache2 demo](/screenshots/apache2.png)
 
 **SSL**
+> https://linuxpropaganda.wordpress.com/2018/07/06/enable-ssl-for-apache2-in-ubuntu-server-18-04/2/
 ---
 ![apache2 ssl](/screenshots/apache2_ssl.png)
 
