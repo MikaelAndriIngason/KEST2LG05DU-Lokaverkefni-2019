@@ -63,6 +63,7 @@
 ## 5 - Groups and users
 
 > $ sudo adduser <name>
+  
 > $ sudo addgroup <name>
 
 **Users**
