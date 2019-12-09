@@ -87,12 +87,12 @@
 ---
 ## 7 - SSH protocol
 
-* sudo nano /etc/ssh/ssh_config
-* sudo service ssh status
+> $ sudo nano /etc/ssh/ssh_config
 
-https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/
+> $ sudo service ssh status
 
-> virkar ekki á client - og þarf að setja group permissions fyrir IT og Management.
+To connect to SSH from client:
+> $ ssh -l [username] 192.168.100.1
 
 ---
 ## 8 - apache2 web server
