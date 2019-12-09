@@ -1,7 +1,7 @@
 # KEST2LG05DU-Lokaverkefni-2019
 
-Overview
-1. Static IP address
+**Overview**
+1. [Static IP address](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#1---static-ip-address)
 2. Hostname and domain name 
 3. DHCP protocol
 4. DNS server
@@ -15,10 +15,7 @@ Overview
 12. SquirreMail
 13. ISPConfig-3
 
-
-
-
-https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/
+> https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/ bara að geyma.
 
 ---
 ## 1 - Static IP address
