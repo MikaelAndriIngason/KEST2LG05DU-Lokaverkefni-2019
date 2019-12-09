@@ -117,6 +117,9 @@ To change index file of the website:
 ---
 ## 10 - Postfix mail server
 
+Assign emails:
+> sudo nano /etc/postfix/virtual
+
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-18-04
 
 > Bara búið að installa.
