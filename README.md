@@ -32,7 +32,7 @@ DHCP Status
 DHCP Client IP
 > $ ip add sh
 
-![DHCP Status](/screenshots/dhcp2.png)
+![DHCP clientip](/screenshots/dhcp3.png)
 
 ---
 ## 4 - DNS server
