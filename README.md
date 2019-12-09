@@ -81,6 +81,7 @@
 ## 6 - Samba share folder
 
 **Samba Status**
+> $ sudo systemctl status nmbd
 ---
 ![samba status](/screenshots/samba1.png)
 
@@ -96,6 +97,7 @@ New samba user:
 ## 7 - SSH protocol
 
 **SSH Status**
+> $ sudo service ssh status
 ---
 ![ssh status](/screenshots/ssh1.png)
 
@@ -131,6 +133,7 @@ To change index file of the website:
 ## 10 - Postfix mail server
 
 **Postfix Status**
+> $ sudo systemctl status postfix
 ---
 ![postfix status](/screenshots/postfix.png)
 
