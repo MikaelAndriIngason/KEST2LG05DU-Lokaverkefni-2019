@@ -127,13 +127,13 @@ To change index file of the website:
 ---
 ## 9 - MYSQL server and phpmyadmin web interface
 
-**MYSQL**
+**MYSQL**  
 Installed, to log in:
 > $ mysql -u root -p
 ---
 ![mysql](/screenshots/mysql.png)
 
-**phpMyAdmin**
+**phpMyAdmin**  
 Installed, but does not show up in http://mikael.local/phpmyadmin or http://192.168.100.1/phpmyadmin
 
 ---
