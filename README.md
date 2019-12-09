@@ -176,7 +176,6 @@ Checking the change:
 ---
 ![quotacheck](/screenshots/quota3.png)
 
-
 ---
 ## 12 - SquirrelMail
 
@@ -188,7 +187,7 @@ In config these values were changed:
 > $data_dir = '/var/www/html/mail/data/';  
 > $attachment_dir = '/var/www/html/mail/attach/';
 
-Checking the webpage
+**Checking the webpage**
 > https://mikael.local/mail
 ---
 ![squirrelmail](/screenshots/squirrelmail.png)
