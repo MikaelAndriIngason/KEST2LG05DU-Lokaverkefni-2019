@@ -118,6 +118,7 @@ To change index file of the website:
 ---
 ![apache2 demo](/screenshots/apache2.png)
 ---
+---
 ![apache2 index file](/screenshots/apacheindex.png)
 
 **SSL**
