@@ -80,6 +80,9 @@
 ---
 ## 6 - Samba share folder
 
+> $ sudo nano /etc/samba/smb.conf
+
+> $ sudo smbpasswd -a [username] 
 
 ---
 ## 7 - SSH protocol
