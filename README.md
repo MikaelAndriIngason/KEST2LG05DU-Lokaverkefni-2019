@@ -21,6 +21,7 @@
 ## 1 - Static IP address
 
 Static IP
+> $ sudo nano /etc/netplan/01-network-manager-all.yaml
 
 ![Static IP](/screenshots/staticip.png)
 
@@ -28,6 +29,7 @@ Static IP
 ## 2 - Hostname and domain name
 
 Hostname
+> $ sudo nano /etc/hosts
 
 ![Hostname](/screenshots/hostname.png)
 
@@ -53,17 +55,23 @@ DHCP Client IP
 ## 4 - DNS server
 
 DNS Configuration
+> $ sudo nano /etc/netplan/01-network-manager-all.yaml
 
 ![DNS conf](/screenshots/dns.png)
 
 ---
 ## 5 - Groups and users
 
+> $ sudo adduser <name>
+  $ sudo addgroup <name>
+
 Users
+> $ ls /home
 
 ![Users](/screenshots/users.png)
 
 Groups
+> $ cat /etc/group
 
 ![Groups](/screenshots/groups.png)
 
