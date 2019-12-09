@@ -9,10 +9,10 @@
 6. [Samba share folder](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#6---samba-share-folder) 
 7. [SSH protocol](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#7---ssh-protocol) 
 8. [apache2 web server](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#8---apache2-web-server) 
-9. [MYSQL server and phpmyadmin web interface](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#9---mysql-server-and-phpmyadmin-web-interface) 
+9. [MYSQL and phpmyadmin](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#9---mysql-server-and-phpmyadmin-web-interface) 
 10. [Postfix mail server](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#10---postfix-mail-server) 
-11. [PurFTPd and Quota](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#11---purftpd-and-quota) 
-12. [SquirreMail](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#12---squirremail) 
+11. [Pure-FTPd and Quota](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#11---purftpd-and-quota) 
+12. [SquirrelMail](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#12---squirremail) 
 13. [ISPConfig-3](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#13---ispconfig-3) 
 
 > https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/ bara að geyma.
@@ -157,9 +157,12 @@ Assign emails:
 ---
 ![Pure-ftpd](/screenshots/pure-ftpd.png)
 
-https://www.digitalocean.com/community/tutorials/how-to-set-filesystem-quotas-on-ubuntu-18-04
+**Quota**  
+To change user quota:
+> $ sudo edquota -u [name]
 
-> Bara búið að installa bæði Pure-FTPd og Quota, þarf að enable-a Quota.
+To change group quota:
+> $ sudo edquota -g [name]
 
 ---
 ## 12 - SquirrelMail
