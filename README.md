@@ -15,7 +15,6 @@
 12. [SquirrelMail](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#12---squirrelmail) 
 13. [ISPConfig-3](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#13---ispconfig-3) 
 
-> https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/ bara að geyma.
 
 ---
 ## 1 - Static IP address
@@ -136,7 +135,7 @@ Installed, to log in:
 ![mysql](/screenshots/mysql.png)
 
 **phpMyAdmin**  
-Installed, but does not show up in http://mikael.local/phpmyadmin or http://192.168.100.1/phpmyadmin
+Installed, but does not show up in http://mikael.local/phpmyadmin or http://192.168.100.1/phpmyadmin, lots of troubleshooting needed and lots of errors.
 
 ---
 ## 10 - Postfix mail server
@@ -194,3 +193,5 @@ In config these values were changed:
 
 ---
 ## 13 - ISPConfig-3
+
+I tried looking for a good tutorial on how to install and configure ISPConfig, I managed to download and install it, but there were many errors and it did not show up on the webpage.
