@@ -95,6 +95,7 @@ https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/
 ## 8 - apache2 web server
 
 **Apache2 web server and demo website**  
+
 To change index file of the website:
 > $ sudo nano /var/www/html/index.html
 ---
