@@ -170,7 +170,10 @@ To change group quota:
 **SquirrelMail configuration**
 > $ sudo nano /var/www/html/mail/config/config.php
 
-> Þarf að laga postfix til að gera þetta.
+In config these values were changed:
+> $domain = 'mikael.local';  
+> $data_dir = '/var/www/html/mail/data/';  
+> $attachment_dir = '/var/www/html/mail/attach/';  
 
 ---
 ## 13 - ISPConfig-3
