@@ -22,7 +22,7 @@
 
 Static IP
 > $ sudo nano /etc/netplan/01-network-manager-all.yaml
-
+-
 ![Static IP](/screenshots/staticip.png)
 
 ---
@@ -30,7 +30,7 @@ Static IP
 
 Hostname
 > $ sudo nano /etc/hosts
-
+-
 ![Hostname](/screenshots/hostname.png)
 
 ---
@@ -38,17 +38,17 @@ Hostname
 
 DHCP Configuration
 > $ sudo nano /etc/dhcp/dhcpd.conf
-
+-
 ![DHCP conf](/screenshots/dhcp1.png)
 
 DHCP Status
 > $ sudo systemctl status isc-dhcp-server.service
-
+-
 ![DHCP Status](/screenshots/dhcp2.png)
 
 DHCP Client IP
 > $ ip add sh
-
+-
 ![DHCP clientip](/screenshots/dhcp3.png)
 
 ---
@@ -56,7 +56,7 @@ DHCP Client IP
 
 DNS Configuration
 > $ sudo nano /etc/netplan/01-network-manager-all.yaml
-
+-
 ![DNS conf](/screenshots/dns.png)
 
 ---
@@ -67,12 +67,12 @@ DNS Configuration
 
 Users
 > $ ls /home/
-
+-
 ![Users](/screenshots/users.png)
 
 Groups
 > $ cat /etc/group
-
+-
 ![Groups](/screenshots/groups.png)
 
 ---
@@ -97,7 +97,7 @@ Apache2 web server og demo síða
 ![apache2 demo](/screenshots/apache2.png)
 
 SSL
-
+-
 ![apache2 ssl](/screenshots/apache2_ssl.png)
 
 - [x] Installation: https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04-quickstart
