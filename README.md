@@ -127,7 +127,14 @@ To change index file of the website:
 ---
 ## 9 - MYSQL server and phpmyadmin web interface
 
-> Búinn að installa, get ekki komist inn á phpmyadmin á netinu, þarf að gera accounts fyrir IT og Management.
+**MYSQL**
+Installed, to log in:
+> $ mysql -u root -p
+---
+![mysql](/screenshots/mysql.png)
+
+**phpMyAdmin**
+Installed, but does not show up in http://mikael.local/phpmyadmin or http://192.168.100.1/phpmyadmin
 
 ---
 ## 10 - Postfix mail server
