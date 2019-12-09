@@ -20,10 +20,18 @@ Hostname
 ## 3 - DHCP protocol
 
 DHCP Configuration
+> sudo nano /etc/dhcp/dhcpd.conf
 
 ![DHCP conf](/screenshots/dhcp1.png)
 
 DHCP Status
+> sudo systemctl status isc-dhcp-server.service
+
+![DHCP Status](/screenshots/dhcp2.png)
+
+DHCP Client IP
+> ip add sh
+
 ![DHCP Status](/screenshots/dhcp2.png)
 
 ---
