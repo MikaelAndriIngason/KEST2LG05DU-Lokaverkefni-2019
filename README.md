@@ -15,6 +15,9 @@
 12. [SquirrelMail](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#12---squirrelmail) 
 13. [ISPConfig-3](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/blob/master/README.md#13---ispconfig-3) 
 
+***
+
+Here is the [Project diary](https://github.com/MikaelAndriIngason/KEST2LG05DU-Lokaverkefni-2019/wiki)
 
 ---
 ## 1 - Static IP address
